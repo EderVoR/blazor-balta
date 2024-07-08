@@ -62,3 +62,15 @@ C:\work\blazor-balta\BlazorShop\obj\Debug\net7.0\refint\BlazorShop.dll
 C:\work\blazor-balta\BlazorShop\obj\Debug\net7.0\BlazorShop.pdb
 C:\work\blazor-balta\BlazorShop\obj\Debug\net7.0\BlazorShop.genruntimeconfig.cache
 C:\work\blazor-balta\BlazorShop\obj\Debug\net7.0\ref\BlazorShop.dll
+C:\work\blazor-balta\BlazorShop\bin\Debug\net7.0\Humanizer.dll
+C:\work\blazor-balta\BlazorShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\work\blazor-balta\BlazorShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\work\blazor-balta\BlazorShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\work\blazor-balta\BlazorShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\work\blazor-balta\BlazorShop\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\work\blazor-balta\BlazorShop\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\work\blazor-balta\BlazorShop\bin\Debug\net7.0\Npgsql.dll
+C:\work\blazor-balta\BlazorShop\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\work\blazor-balta\BlazorShop\bin\Debug\net7.0\System.CodeDom.dll
+C:\work\blazor-balta\BlazorShop\obj\Debug\net7.0\BlazorShop.csproj.AssemblyReference.cache
+C:\work\blazor-balta\BlazorShop\obj\Debug\net7.0\BlazorShop.csproj.Up2Date
