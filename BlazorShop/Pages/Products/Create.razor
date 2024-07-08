@@ -26,15 +26,22 @@
 			}
 		</InputSelect>
 	</div>
-	@if(!string.IsNullOrEmpty(errorMessage))
+	@if (!string.IsNullOrEmpty(errorMessage))
 	{
 		<div class="alert alert-success">
 			@errorMessage
 		</div>
 	}
-	<button class="btn btn-primary" type="submit">
-		Salvar
-	</button>
+	<div class="row">
+		<div class="col-md-10">
+			<button class="btn btn-primary col-md-2" type="submit">
+				Salvar
+			</button>
+			<a href="/products" class="btn btn-secondary col-md-2" style="padding-left: 10px">
+				Voltar
+			</a>
+		</div>
+	</div>
 </EditForm>
 
 @code {
@@ -57,7 +64,7 @@
 			await _context.SaveChangesAsync();
 			_navigationManager.NavigateTo("/products");
 		}
-		catch(Exception ex)
+		catch (Exception ex)
 		{
 			errorMessage = ex.Message;
 		}

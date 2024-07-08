@@ -1,0 +1,45 @@
+﻿@page "/products"
+@inject AppDbContext _context
+
+<h1>Produtos</h1>
+<a href="/products/create" class="btn btn-primary" >
+	<i class="oi oi-plus"></i> Novo
+</a>
+
+
+<table class="table">
+	<thead>
+		<tr>
+			<td>#</td>
+			<td>Título</td>
+			<td>Preço</td>
+			<td>Categoria</td>
+			<td></td>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in _products)
+		{
+			<tr>
+				<td>@item.Id</td>
+				<td>@item.Title</td>
+				<td>@item.Price</td>
+				<td>@item.Category?.Title</td>
+				<td></td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+@code {
+	List<Product> _products = new();
+
+	protected override async Task OnInitializedAsync()
+	{
+		_products = await _context.Products
+			.Include(s => s.Category)
+			.AsNoTracking()
+			.ToListAsync();
+	}
+
+}
