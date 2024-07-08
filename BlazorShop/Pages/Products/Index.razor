@@ -23,9 +23,12 @@
 			<tr>
 				<td>@item.Id</td>
 				<td>@item.Title</td>
-				<td>@item.Price</td>
+				<td>@item.Price.ToString("C", new CultureInfo("pt-BR"))</td>
 				<td>@item.Category?.Title</td>
-				<td></td>
+				<td>
+					<a href="/products/edit/@item.Id">Editar</a>
+					<a href="/products/delete/@item.Id">Deletar</a>
+				</td>
 			</tr>
 		}
 	</tbody>
@@ -38,6 +41,7 @@
 	{
 		_products = await _context.Products
 			.Include(s => s.Category)
+			.OrderBy(c => c.Id)
 			.AsNoTracking()
 			.ToListAsync();
 	}
