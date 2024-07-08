@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "23LCI///hu0xbvXQcst5h6yw+UDRsNGa5R97kiAktU0=",
+  "Hash": "uisIOJmnM1RfH9XjPgfEVNvtEPQwfkoloExYNrKUHGY=",
   "Source": "BlazorShop",
   "BasePath": "_content/BlazorShop",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorShop\\wwwroot",
       "Source": "BlazorShop",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorShop.styles.css",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorShop.styles.css",
       "SourceId": "BlazorShop",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "BlazorShop.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\dev\\blazor-balta\\BlazorShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorShop.styles.css"
+      "OriginalItemSpec": "C:\\work\\blazor-balta\\BlazorShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorShop.styles.css"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorShop.bundle.scp.css",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorShop.bundle.scp.css",
       "SourceId": "BlazorShop",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "BlazorShop.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\dev\\blazor-balta\\BlazorShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorShop.bundle.scp.css"
+      "OriginalItemSpec": "C:\\work\\blazor-balta\\BlazorShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorShop.bundle.scp.css"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\css\\site.css",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\css\\site.css",
       "SourceId": "BlazorShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\favicon.png",
+      "Identity": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\favicon.png",
       "SourceId": "BlazorShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\blazor-balta\\BlazorShop\\wwwroot\\",
+      "ContentRoot": "C:\\work\\blazor-balta\\BlazorShop\\wwwroot\\",
       "BasePath": "_content/BlazorShop",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

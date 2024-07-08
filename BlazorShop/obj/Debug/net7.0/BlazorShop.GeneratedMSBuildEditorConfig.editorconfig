@@ -9,43 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorShop
 build_property.RootNamespace = BlazorShop
-build_property.ProjectDir = C:\dev\blazor-balta\BlazorShop\
+build_property.ProjectDir = C:\work\blazor-balta\BlazorShop\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\dev\blazor-balta\BlazorShop
+build_property.MSBuildProjectDirectory = C:\work\blazor-balta\BlazorShop
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/dev/blazor-balta/BlazorShop/App.razor]
+[C:/work/blazor-balta/BlazorShop/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/blazor-balta/BlazorShop/Pages/Index.razor]
+[C:/work/blazor-balta/BlazorShop/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/blazor-balta/BlazorShop/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/dev/blazor-balta/BlazorShop/_Imports.razor]
+[C:/work/blazor-balta/BlazorShop/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/blazor-balta/BlazorShop/Shared/MainLayout.razor]
+[C:/work/blazor-balta/BlazorShop/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-t60nswnymi
 
-[C:/dev/blazor-balta/BlazorShop/Shared/NavMenu.razor]
+[C:/work/blazor-balta/BlazorShop/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-7em9tcr6mp
 
-[C:/dev/blazor-balta/BlazorShop/Pages/Error.cshtml]
+[C:/work/blazor-balta/BlazorShop/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/blazor-balta/BlazorShop/Pages/_Host.cshtml]
+[C:/work/blazor-balta/BlazorShop/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

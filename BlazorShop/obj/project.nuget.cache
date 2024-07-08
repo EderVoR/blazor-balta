@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Juemt2jRaukASF8p2j0k+kPSvdG4SNjvX9cmtII2lK/n74eP8fkrjbG5DIjLjnrcq8LMIPBMo0dNuc9s4wX3nA==",
+  "dgSpecHash": "6rmVSxxuJ7DxteJUhcDa2ZT0kebDFcdGtVpnwnfKkNL4t1fCRBJxQ+sxFOnq3EYmLbtAoPK+QDDDALyPe1yztg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\blazor-balta\\BlazorShop\\BlazorShop.csproj",
+  "projectFilePath": "C:\\work\\blazor-balta\\BlazorShop\\BlazorShop.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
